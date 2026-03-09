@@ -1,0 +1,61 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ .heading {
+    border: 2px solid black;
+    border-radius: 16px;
+    text-align: center;
+    color: white;
+    font-family: "Imperial Script", cursive;
+    font-weight: 700;
+    font-size: 55px;
+    text-shadow: #357fbb 2px 5px 5px;
+    background-color: lightskyblue;
+    margin: 20px;
+    padding: 0px;
+}
+
+ body {
+     background-color: rgb(23, 19, 19);
+ }
+
+ .images {
+     margin-left: 20px;
+     margin-top: 10px;
+     padding-left: 10px;
+ }
+
+ img {
+     border-radius: 10px;
+ }
+
+ a:link {
+     color: white;
+ }
+
+ a:hover {
+     color: red;
+ }
+
+ .links {
+     text-indent: 200px;
+     font-size: 25px;
+     display: inline-block;
+ }
+
+ .links:first-child {
+     border: 2px solid rgb(99, 99, 214);
+
+ }
+
+ #btn{
+    color: white;
+    background-color: rgb(39, 39, 189);
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+ }
